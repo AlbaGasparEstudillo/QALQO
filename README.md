@@ -1,2 +1,2 @@
 # QALQO
-Empresa de Síntesis 
+
