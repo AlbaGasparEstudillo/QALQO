@@ -1,3 +1,9 @@
+---
+description: >-
+  En este apartado veremos que hacemos en QALQO con las copias de seguridad y
+  las imágenes del sistema.
+---
+
 # Copias de seguridad e imágenes del sistema
 
 La protección y la realización de copias de seguridad de sus máquinas virtuales son fundamentales para garantizar la continuidad de su infraestructura. Por eso QALQO le ofrece una solución de backup administrado, basada en las tecnologías de Veeam Backup & Replication, con la que podrá restaurar sus datos fácilmente. Para ello, solo tiene que activar el backup automático de sus máquinas virtuales.Backup as a Service
