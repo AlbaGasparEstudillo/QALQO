@@ -6,7 +6,7 @@ description: >-
 
 # Copias de seguridad e imágenes del sistema
 
-### Cómo es el proceso de backup y recuperación on-line
+## Cómo es el proceso de backup y recuperación on-line
 
 Primero, planifica claramente los contenidos que deseas trasladar a backup y sus rutas. Concentra lo importante en un número limitado de unidades de disco, carpetas o rutas.  
 
@@ -17,7 +17,9 @@ Para realizar la restauración de archivos o sistemas completos se emplea, previ
   
 Alternativamente, y previa identificación, será posible acceder desde cualquier ordenador conectado a Internet para guardar información y para recuperarla los 365 días del año. Algo muy útil para las oficinas remotas o usuarios móviles de tu red.  
   
-Solo tendrás que instalar la pequeña aplicación proporcionada por Backup365 en cada servidor, ordenador de sobremesa o portátil, y así tus datos podrán ser permanentemente respaldados o recuperados vía Internet desde sistemas autorizados. 
+Solo tendrás que instalar la pequeña aplicación proporcionada por Backup365 en cada servidor, ordenador de sobremesa o portátil, y así tus datos podrán ser permanentemente respaldados o recuperados vía Internet desde sistemas autorizados.
+
+##  **Existen diversos tipos de redundancia: de Red, de Hardware, de poder y geográfica.** 
 
 **» La redundancia de red** es básicamente la que utiliza tu proveedor de Internet para mantener tu conexión en línea. Las compañías fiables como **ENI Networks** tenemos más de un operador de Internet para el correcto funcionamiento de nuestros servicios de modo de garantizar que tu Internet siempre esté disponible.
 
@@ -27,5 +29,5 @@ Solo tendrás que instalar la pequeña aplicación proporcionada por Backup365 e
 
 **»** **La redundancia geográfica** proporciona servicios de red dirigida, de modo que en el caso de una falla completa del datacenter, la información puede ser desviada a servidores ubicados en otro lugar físico a varios kilómetros de distancia. Esto permite entregar tranquilidad a los clientes en caso de que ocurra un desastre natural que afecte al lugar donde el sistema se encuentra establecido. En el caso de **ENI Networks**, contamos con nodos redundantes y localizados en distintos sitios \(sitios donde residen nuestros principales equipos de telecomunicaciones y donde recibimos el Internet de parte de nuestros carriers o proveedores\).
 
-
+##  **En QALQO garantizamos una conexión redundante de calidad y disponibilidad pese a cualquier incidencia ambiental o factor externo. Un servicio a prueba de fallos que te permita navegar sin ninguna complicación.**
 
