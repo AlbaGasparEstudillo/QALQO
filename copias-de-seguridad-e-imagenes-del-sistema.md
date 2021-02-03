@@ -1,12 +1,14 @@
 # Copias de seguridad e imágenes del sistema
 
-### Agentes de backup
+La protección y la realización de copias de seguridad de sus máquinas virtuales son fundamentales para garantizar la continuidad de su infraestructura. Por eso QALQO le ofrece una solución de backup administrado, basada en las tecnologías de Veeam Backup & Replication, con la que podrá restaurar sus datos fácilmente. Para ello, solo tiene que activar el backup automático de sus máquinas virtuales.Backup as a Service
 
-Disponemos de agentes de backup adecuados y actualizados para la gran mayoría de Sistemas Operativos \(Windows, Mac, Linux, Solaris, Unix SCO, HP-UX, AIX, BSD, ...\) El agente de backup adecuado a tu sistema operativo y proporcionado por QALQO realizará una primera copia de todos los contenidos y carpetas de documentos elegidos, o incluso de todo el sistema. Posteriormente todos aquellos archivos nuevos y las diferencias de los archivos que se modifiquen serán respaldados en las copias diarias programadas. Todo de forma totalmente automática y sin tu intervención.
+El backup de sus máquinas virtuales está totalmente automatizado y supervisado por QALQO. Así podrá restaurar sus máquinas cuando lo necesite.Almacenamiento incluido
 
- El proceso de backup está, además, monitorizado. Cada backup realizado genera un informe con el resultado obtenido, y en caso de producirse cualquier incidencia \(falta de conexión, equipo apagado, etc\), el administrador recibirá siempre una notificación para resolver la incidencia.
+El backup de sus datos se almacena en nuestras infraestructuras dedicadas y complementarias, a las que podrá acceder fácilmente mediante un enlace de administración.Seguimiento diario
 
-Es el proceso de monitorización lo que permite asegurar en última instancia la integridad del servicio de backup.  
-  
-En el centro remoto, el Centro de Datos de Backup365, se almacenan los backups conforme a los requisitos de tiempo establecidos para poder ofrecer en cualquier momento una restauración, tanto de ficheros específicos como de máquinas completas
+Cada día recibirá un informe personalizable con la lista de todas las copias de seguridad y su estado.
+
+### 
+
+
 
