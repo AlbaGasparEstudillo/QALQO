@@ -8,5 +8,4 @@
 * [Seguridad física](seguridad-fisica.md)
 * [Seguridad lógica](seguridad-logica.md)
 * [Seguridad en las redes](seguridad-en-las-redes.md)
-* [PRESUPUESTOS](presupuestos.md)
 
