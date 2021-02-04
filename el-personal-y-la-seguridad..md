@@ -4,7 +4,7 @@
 
 En Qalqo, hacemos uso de unas Políticas de Seguridad. Esto lo usamos para tener una mejor organización en nuestra empresa.
 
-Estas Políticas, están constituidas por diversos puntos: Antecedentes, Objetivos y la Lista de Control
+Estas Políticas, están constituidas por diversos puntos: Antecedentes,Objetivos y la Lista de Control
 
 ## Have you had a chance to answer the previous question?
 
