@@ -22,17 +22,21 @@ description: >-
 
 * Pérdida de datos
 
-
+Este incidente puede ser causado por un fallo en los servidores o sistema por un atacante malicioso o un malware que no ha sido detectado por el sistema. Esto puede llevar a fallos monetarios o filtrados de información.
 
 * Filtrado de información confidencial
 
-
+Mayormente causado por el mal uso de los equipos por los usuarios de la empresa, si los integrantes no son concienciados del correcto uso de la red, podría filtrarse información sensible de la empresa. 
 
 * Fallos monetarios
 
-
+Esto suele ser causado por los anteriores incidentes de pérdidas de datos o de información confidencial, desde un simple y clásico ataque DDos a un RANSOMWARE.
 
 * Quiebra de la empresa
 
+Esta situación es la mas catastróficas de todas, debido, mayoritariamente, al mal uso de los equipos, mal uso del software del sistema, o no haber detenido un ciberataque correctamente, o a tiempo.
 
+
+
+¿Quieres que estos incidentes no ocurran en tu empresa? En QALQO tenemos los sistemas y conocimientos necesarios para solventar cualquier tipo de estos problemas, ya sea con nuestro kit de concienciación, o nuestras medidas de seguridad implantada con nuestros servicios.
 
