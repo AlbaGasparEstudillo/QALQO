@@ -40,7 +40,7 @@ Esta situación es la mas catastróficas de todas, debido, mayoritariamente, al 
 
 ¿Quieres que estos incidentes no ocurran en tu empresa? En QALQO tenemos los sistemas y conocimientos necesarios para solventar cualquier tipo de estos problemas, ya sea con nuestro kit de concienciación, o nuestras medidas de seguridad implantada con nuestros servicios.
 
-Estos son los servicios que ofrecemos para la resolución de estos tipos de incidentes:
+**Estos son los servicios que ofrecemos para la resolución de estos tipos de incidentes:**
 
 1. Resolución 24h de incidencias ante pérdidas de datos
 2. Material didáctico de aprendizaje básico del trato de datos sensibles
