@@ -6,9 +6,11 @@ En Qalqo, hacemos uso de unas Políticas de Seguridad. Esto lo usamos para tener
 
 Estas Políticas, están constituidas por diversos puntos: Antecedentes, Objetivos y la Lista de Control
 
-## Have you had a chance to answer the previous question?
+## Protección de Datos
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+En nuestra empresa protegemos los datos tanto de la empresa como el de nuestros clientes. Estos datos se clasifican por distintos niveles de importancia ya sean por ejemplo de nivel bajo, medio y alto.
+
+
 
 
 
