@@ -47,4 +47,5 @@ Estos son los servicios que ofrecemos para la resolución de estos tipos de inci
 3. Sistema confeccionado de copias de seguridad
 4. Antivirus propietarios
 5. Asesoramiento personalizado encarado a la ciberseguridad en tu empresa
+6. Rastreo de paquetes maliciosos en la red de tu empresa
 
