@@ -20,10 +20,19 @@ description: >-
 
 **¿Por qué es importante protegernos en cara a la seguridad lógica?**
 
-1. Pérdida de datos
-2. Filtrado de información confidencial
-3. Fallos monetarios
-4. Quiebra de la empresa
+* Pérdida de datos
+
+
+
+* Filtrado de información confidencial
+
+
+
+* Fallos monetarios
+
+
+
+* Quiebra de la empresa
 
 
 
