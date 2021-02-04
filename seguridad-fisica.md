@@ -41,7 +41,7 @@ Podemos protegernos de muchas formas, pero estas dependen del contexto de la sit
 * Configurar nuestro equipo para que no autoejecute los dispositivos externos, como puede ser un dispositivo USB, sino que lo analice con un antivirus previamente instalado.
 * Instalar aplicaciones antirrobo, para que, en caso de que nos roben, por ejemplo, nuestro teléfono móvil, tener más probabilidades de recuperarlo contactando con la policía.
 
-Por último, ante cualquier problema con los ciberdelincuentes, llame al [**017**](https://www.incibe.es/linea-de-ayuda-en-ciberseguridad).
+Para más información contacte con nosotros.
 
 
 
