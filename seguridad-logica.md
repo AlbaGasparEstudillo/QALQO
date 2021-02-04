@@ -7,3 +7,18 @@ description: >-
 
 # Seguridad lógica
 
+La seguridad lógica incluyo estos tipos de incidentes:
+
+1. Los virus
+2. Programas no testeados
+3. Errores de usuario
+4. Error del operador
+5. Mal uso del ordenador
+6. Fraude informático
+7. Investigación de accesos no autorizados internos
+8. Acceso no autorizados externos
+
+
+
+
+
