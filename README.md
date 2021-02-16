@@ -1,2 +1,16 @@
+---
+description: 'Esta, es nuestra presentación como empresa y los servicios que ofrecemos.'
+---
+
 # QALQO
-Empresa de Síntesis 
+
+
+
+{% tabs %}
+{% tab %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
